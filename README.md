@@ -1,5 +1,4 @@
 
-<img src="static/safesurf-normal.png"  width="350" height="88">
 
 
 # Rising Shield
@@ -9,7 +8,7 @@ A phishing domain detection tool that also allows you to safely view the website
 
 ## Features
 
-These are the features provided by SafeSurf to its users.
+These are the features provided to its users.
 - The website is easy to use, with a simple interface that anyone can navigate.
 - Users can see the preview of the website without actually visiting it.
 - It gives a trust score to the URL, which will provide the user an understanding of the trustability and authenticity of the domain.
